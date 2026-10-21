@@ -1,0 +1,14 @@
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
